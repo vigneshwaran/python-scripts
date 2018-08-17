@@ -1,0 +1,27 @@
+print ("Hello world\n")
+print ("Hello world")
+print ("Hello world")
+print ("Hello world")
+print ("Hello world")
+print ("Hello world")
+print ("Hello world")
+print ("Hello world")
+print ("Hello world")
+#ghfdhgf print("sgdkfsf")
+print("is it greater?",(5<9))
+x=6
+y=10
+print("hey whats up there %sff i think so nothing" %int(x+y))
+print('z')
+s=100
+print(s,+x,+y)
+formato = "%r %r %s"
+print (formato % ("dcsd","sd","advs"))
+print(formato,formato)
+print(formato %(1,87,'\nghg'))
+print("hello","jdkfvkfkdl")
+print("""DEFSF""")
+print("ewefff","\a,'rgreg'\b,'fvfd'\v,'vfdvv'\t'gbgfbfgb'","43554")
+print("%r"%y)
+print("whats ur age")
+wt=raw_input()
